@@ -105,8 +105,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 100 1240 100 464")
-        (Scroll "382 253")
-        (Zoom "100")
+        (Scroll "2365 1254")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "C:\MYWORKS\EMMITER_NEW\HARD\CIRCUIT\PROJECT\MASTER\EMMITER_MASTER.DSN")
