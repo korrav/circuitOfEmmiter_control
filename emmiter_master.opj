@@ -94,7 +94,10 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\MyWorks\emmiter_new\hard\circuit\project\master\emmiter_master.dsn"))
+         "C:\MyWorks\emmiter_new\hard\circuit\project\master\emmiter_master.dsn")
+      (Path "Design Resources"
+         "C:\MyWorks\emmiter_new\hard\circuit\project\master\emmiter_master.dsn"
+         "SCHEMATIC1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -104,9 +107,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 100 1240 100 464")
-        (Scroll "2365 1254")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -30 100 1240 100 464")
+        (Scroll "-21 0")
+        (Zoom "52")
         (Occurrence "/"))
       (Path
          "C:\MYWORKS\EMMITER_NEW\HARD\CIRCUIT\PROJECT\MASTER\EMMITER_MASTER.DSN")
